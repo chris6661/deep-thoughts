@@ -22,7 +22,8 @@
   "homepage": "https://github.com/chris6661/deep-thoughts#readme",
   "description": "",
   "dependencies": {
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
     "concurrently": "^6.1.0"
